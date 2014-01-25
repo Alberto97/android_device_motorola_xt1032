@@ -1,2 +1,3 @@
-add_lunch_combo cm_xt1032-userdebug
+add_lunch_combo full_xt1032-userdebug
+add_lunch_combo omni_xt1032-userdebug
 

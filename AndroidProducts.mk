@@ -14,4 +14,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_xt1032.mk
+    $(LOCAL_DIR)/full_xt1032.mk \
+    $(LOCAL_DIR)/omni_xt1032.mk
